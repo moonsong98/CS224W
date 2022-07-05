@@ -30,7 +30,7 @@ $ENC(v)=z_{v}=\mathbb{Z} \cdot v$
 ### Similarity Function
 
 1. Are Linked?
-2. $\#$ of sharing Neighbors
+2. \# of sharing Neighbors
 3. Similairity of structural role  
 $\vdots$
 
